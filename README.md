@@ -54,7 +54,7 @@ A backend-heavy MERN stack application for real-time disaster coordination with 
 
 1. **Clone the repository**
 \`\`\`bash
-git clone https://github.com/anshuman018/Disaster-Response-Coordination-Platform-Assignment.git
+git clone https://github.com/khushi-rathore/Disaster-Response-Coordination-Platform
 cd crisisnetx
 \`\`\`
 
